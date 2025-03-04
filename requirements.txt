@@ -1,1 +1,5 @@
+flask
+flask-cors
+gunicorn  # Recommended for production
+openai  # If using OpenAI API
 
